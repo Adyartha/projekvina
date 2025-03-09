@@ -1,0 +1,66 @@
+.navbar-nav .nav-link {
+    font-size: 1.25rem; /* Ukuran teks lebih besar */
+    
+  }
+  body{
+    margin: 0 5% 0;
+  }
+  .h1 {
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  h1 {
+    font-size: 4rem;
+    color: #81b4ff;
+    letter-spacing: 5px;
+  }
+  .content-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .text-container {
+    flex: 1;
+  }
+  
+  img {
+    max-width: 50%;
+    height: auto;
+  }
+  .judul {
+    font-size: 2rem;
+    color: black;
+    margin-top: 5%;
+
+  }
+  .main-container {
+    display: flex;
+  }
+  
+  .content {
+    flex: 3;
+  }
+  
+  .sidebar {
+    flex: 1;
+    margin-left: 90px;
+    margin-top: 7%; /* Adjust the margin as needed */
+    background-color: #f5f8fb;
+    padding: 2%;
+  }
+  
+  .gambar {
+    max-width: 100%;
+    height: auto;
+  }
+  .card img {
+  margin: 12px;
+  }
+  .btn {
+    margin: 3px;
+  }
+  .info a {
+   margin-bottom: 10px;
+   display: block;
+  }
+  
